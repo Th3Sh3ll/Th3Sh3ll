@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Th3Sh3ll
 - 👀 I’m interested in automation with tools like powershell, ansible and python.
-- 🌱 I’m currently learning Python.
+- 🌱 Aspiring to be a senior SRE!
 - 📫 How to reach me, email: jony67@live.com
 
 <!---
